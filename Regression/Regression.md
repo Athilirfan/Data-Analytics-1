@@ -21,5 +21,8 @@ I import pandas library then I had perform the following functions. They are:
       9.Median Absolute Deviation
       10.Skewness
       11.Kurtosis
+3.Linear Regression:
+       In this work I import pandas and numpy also matplotlib. I got the bodyfat dataset in jupyter notebook by giving the file path and I find the shape,tail,drop and head of the bodyfat dataset. Next, I perform scatter plot in Data Visualization by defining x and y variable. Then, I installed and import Linear Regression and getting the dataframe in the dataset.
+       And I perform test and predict of x,y in Linear Regression.
 
 
